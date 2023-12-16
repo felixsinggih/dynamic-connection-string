@@ -1,0 +1,11 @@
+D:\Programming\C#\DynamicallyConnectionString\DynamicallyConnectionString\bin\Debug\DynamicallyConnectionString.exe.config
+D:\Programming\C#\DynamicallyConnectionString\DynamicallyConnectionString\bin\Debug\DynamicallyConnectionString.exe
+D:\Programming\C#\DynamicallyConnectionString\DynamicallyConnectionString\bin\Debug\DynamicallyConnectionString.pdb
+D:\Programming\C#\DynamicallyConnectionString\DynamicallyConnectionString\obj\x86\Debug\DynamicallyConnectionString.Form1.resources
+D:\Programming\C#\DynamicallyConnectionString\DynamicallyConnectionString\obj\x86\Debug\DynamicallyConnectionString.Properties.Resources.resources
+D:\Programming\C#\DynamicallyConnectionString\DynamicallyConnectionString\obj\x86\Debug\DynamicallyConnectionString.csproj.GenerateResource.Cache
+D:\Programming\C#\DynamicallyConnectionString\DynamicallyConnectionString\obj\x86\Debug\DynamicallyConnectionString.exe
+D:\Programming\C#\DynamicallyConnectionString\DynamicallyConnectionString\obj\x86\Debug\DynamicallyConnectionString.pdb
+D:\Programming\C#\DynamicallyConnectionString\DynamicallyConnectionString\obj\x86\Debug\DynamicallyConnectionString.Form2.resources
+D:\Programming\C#\DynamicallyConnectionString\DynamicallyConnectionString\obj\x86\Debug\DynamicallyConnectionString.Form3.resources
+D:\Programming\C#\DynamicallyConnectionString\DynamicallyConnectionString\obj\x86\Debug\DynamicallyConnectionString.csprojResolveAssemblyReference.cache
